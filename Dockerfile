@@ -23,6 +23,7 @@ RUN yum makecache --timer \
       hostname \
       python3 \
       python3-pip \
+      git \
  && yum clean all
 
 # Install Ansible via Pip.
