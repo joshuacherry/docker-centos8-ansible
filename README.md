@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.org/joshuacherry/docker-centos8-ansible.svg?branch=master)](https://travis-ci.org/joshuacherry/docker-centos8-ansible)
-[![Docker Automated build](https://img.shields.io/docker/automated/joshuacherry/docker-centos8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/joshuacherry/docker-centos8-ansible/)
+[![Docker Automated build](https://img.shields.io/docker/cloud/automated/joshuacherry/docker-centos8-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/joshuacherry/docker-centos8-ansible/)
 
 CentOS 8.x Docker container for Ansible playbook and role testing.
 
